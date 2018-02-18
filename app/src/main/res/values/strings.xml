@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MercAdventure</string>
+    <string-array name="drop_list_1">
+        <item> Ride Outside the city?</item>
+        <item> Monuments</item>
+        <item> Malls</item>
+        <item> Bars</item>
+        <item> Pubs</item>
+        <item> Breweries</item>
+        <item> Restaurants</item>
+        <item> Cinemas</item>
+    </string-array>
+    <string-array name="drop_list_2">
+        <item> In mood for?</item>
+        <item> Smooth Drive</item>
+        <item> Sporty Ride</item>
+        <item> Among the hills</item>
+        <item> Into the woods</item>
+        <item> Countryside</item>
+        <item> Off roading</item>
+    </string-array>
+</resources>
